@@ -1,0 +1,4149 @@
+fileFormatVersion: 2
+guid: 1c7af8ecb732cc24291681471e4d9d66
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: broken_worker_a_head_back
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 75
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef966cae108b62f0800000000000000
+      internalID: -978547624793169938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: broken_worker_a_head_front
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 57
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f501de7554c2ad0800000000000000
+      internalID: -2725727430524248256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: broken_worker_a_head_side
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 75
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd88db2984ca0ef90800000000000000
+      internalID: -6926346799196305189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8dd3af67b3bdc90800000000000000
+      internalID: -7144051001702623059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921d2a70f847970d0800000000000000
+      internalID: -3424577883981295319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d3006527e87e8e0800000000000000
+      internalID: -1664204915569836695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dca3d290ee2bee30800000000000000
+      internalID: 4533768991949434069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b6cbcd0b0cb8460800000000000000
+      internalID: 7245096291405687636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0d930c5a1c7c1f0800000000000000
+      internalID: -1024637472564719369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c3c0a55608dc120800000000000000
+      internalID: 2435744146268109831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4181bbe1aae9225a0800000000000000
+      internalID: -6547496454746073068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/[base]body
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d56b4852492de430800000000000000
+      internalID: 3813749824378594777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/[base]body
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 28
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f526a9e235fde50800000000000000
+      internalID: 6836274218995441494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ed71fffc76e6e90800000000000000
+      internalID: -7030567825243120045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6765b4fd7454985d0800000000000000
+      internalID: -3059838296830290314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9152c865bd00590800000000000000
+      internalID: -7709921397293377092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba50468eb6dc05e0800000000000000
+      internalID: -1941941225519031620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/[base]head
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2ec02b91932f0e0800000000000000
+      internalID: -2237663282325560657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1cff06cde316810800000000000000
+      internalID: 1756754445892305328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2ce272155da630800000000000000
+      internalID: 3939898786744905268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c71483ee2cf7ad10800000000000000
+      internalID: 2136953826526369730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc964da2814a1f0800000000000000
+      internalID: -1034675442156974712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f6b02594332f0a0800000000000000
+      internalID: -6849355693274992893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb5c3ead0cf59210800000000000000
+      internalID: 1339253599900556215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c756022c24f3ddc80800000000000000
+      internalID: -8296405382589291140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e51d4777052d260800000000000000
+      internalID: 7120842434817383954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/bag
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a8ef8543428550800000000000000
+      internalID: 6161561206242453024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ef1b69f1e9c5390800000000000000
+      internalID: -7828208193767342559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/bag
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac7191d8e11c78c0800000000000000
+      internalID: -4000302677365785428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a353d119ff5da2f10800000000000000
+      internalID: 2245842657825600826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/hairF
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52765e1ad21260ce0800000000000000
+      internalID: -1439426551024883931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/tear
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d547fa9fc65eef20800000000000000
+      internalID: 3453793413897864658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/bag
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53912360e845459f0800000000000000
+      internalID: -480666291255764683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414a7c8f2d77f46f0800000000000000
+      internalID: -698207669218466796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/hairF
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40069181bfaa3a050800000000000000
+      internalID: 5810675939655901188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9141dbb3a4def6fe0800000000000000
+      internalID: -1193474473144282087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8713434483ac610800000000000000
+      internalID: 1642186879714556094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/face/hairF
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7c01507fa74a2c0800000000000000
+      internalID: -4421273732810487879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e58c908d771d400800000000000000
+      internalID: 347190416045006404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/face/hairF
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158d5a5e95079120800000000000000
+      internalID: 2420409502413980947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/bag
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c7815e5f1d47960800000000000000
+      internalID: 7598929325321649311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/bag
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24cc04ef180840c0800000000000000
+      internalID: -4591410887041170385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/bag
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2295b74d26215f3e0800000000000000
+      internalID: -2020688642124850910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/cloakB
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 94
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf030b22f6de95d40800000000000000
+      internalID: 5573747075426824444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/cloakB
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 94
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31af9a39fad4c58a0800000000000000
+      internalID: -6315087160988272109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/head2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 55
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed4d843aff530c50800000000000000
+      internalID: 6630248604647640554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/muffler
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0c824cc92ae9d60800000000000000
+      internalID: 7898929590644031656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/muffler
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034aefffad747fff0800000000000000
+      internalID: -2454268867075024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/back/rope
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 106
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0377c11ab1e558e80800000000000000
+      internalID: -8177026075661142224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/rope
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 106
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef791bcd8d9c38d0800000000000000
+      internalID: -2865242030591082518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/rope
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 106
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6853cf5ebb99a0800000000000000
+      internalID: -6225172741401055408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]armL2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc53216c86854c10800000000000000
+      internalID: 2037182343938268369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]armR2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1172c59b7553065e0800000000000000
+      internalID: -1918474790371580143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]armL2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ad170589c1033a0800000000000000
+      internalID: -6687814006134941101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]armR2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78631f93613d1920800000000000000
+      internalID: 2962578433820027002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]body
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 43
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416b7991fd979ccd0800000000000000
+      internalID: -2537362915932522988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]body
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 43
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db73e5b272d5451e0800000000000000
+      internalID: -2210039094319368259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc5b25b22c5ed860800000000000000
+      internalID: 7556578528912432370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c771331afdc9ccb90800000000000000
+      internalID: -7220223618285627524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773e2638a384b3200800000000000000
+      internalID: 160801627851383671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bd67fa31c53ae00800000000000000
+      internalID: 1054787977352764191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]elbowL2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb7f976c11e5ca40800000000000000
+      internalID: 5387960041332505521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]elbowR2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a4cf853643c4a90800000000000000
+      internalID: -7328424892339303803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]elbowL2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab18cd89b899ab010800000000000000
+      internalID: 1205444675119120826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]elbowR2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7027e1084b18ed0800000000000000
+      internalID: -2413449462934272018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/[base]head
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 28
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eb05cd88a934f90800000000000000
+      internalID: -6970557885636887035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/cloakB
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 94
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a4a78bef6c448c0800000000000000
+      internalID: -4015866170388624863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/cloakB
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 94
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cab2878e9055bef0800000000000000
+      internalID: -93079575482680631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/[base]attack
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 94
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cd1f1c16007ccc0800000000000000
+      internalID: -3690980949741151093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/face/[base]attack
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 94
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e508c62a3489230800000000000000
+      internalID: 3645738263240531548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/face/[base]attack
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 94
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4495c10009c746640800000000000000
+      internalID: 5072316038245013828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/[base]damaged
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ed2bed153894e30800000000000000
+      internalID: 4488262891303263812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/face/[base]damaged
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559ff55e79dc82cd0800000000000000
+      internalID: -2582588334024951467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/face/[base]damaged
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e123fbe02b414360800000000000000
+      internalID: 7152080288010674665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/[base]doyagao
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1401520808b96f0800000000000000
+      internalID: -676806031123136026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/face/[base]doyagao
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087e873ea8720b7b0800000000000000
+      internalID: -5210621291392342144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/face/[base]doyagao
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 94
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b768304710d2cbbb0800000000000000
+      internalID: -4919007208730818949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/[base]idle
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9805256ef0c1df80800000000000000
+      internalID: -8083467657302177635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/face/[base]idle
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38380734dbde15ac0800000000000000
+      internalID: -3868049207798496381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/face/[base]idle
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 96
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e2cda1d77c2c090800000000000000
+      internalID: -8015625046630584734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/[base]mad
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39da1b9d34ea52ba0800000000000000
+      internalID: -6114289312647238253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/face/[base]mad
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05d8e9b2b425a550800000000000000
+      internalID: 6171379214422955278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/face/[base]mad
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116968ade30ea7510800000000000000
+      internalID: 1547795982514034193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/[base]smile
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 96
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d1a85e0a813670800000000000000
+      internalID: 8516740164555495621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/face/[base]smile
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 96
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116a92b50d066a120800000000000000
+      internalID: 2424731897384510993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/face/[base]smile
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 96
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f68af674c8987df0800000000000000
+      internalID: -182227815331363085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/face/[base]tired
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 99
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4858190ff82fb10800000000000000
+      internalID: 2013830246784402607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/face/[base]tired
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 99
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a8452287da9b920800000000000000
+      internalID: 3006624957730163268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/face/[base]tired
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 99
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12c03fdb1750ee60800000000000000
+      internalID: 7989481516175507994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/front/muffler
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 110
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd75743a3d06d10800000000000000
+      internalID: 2116924523094204226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/muffler
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 110
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4615c8c7b34e0560800000000000000
+      internalID: 7281832104131106381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 57
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b74ee5d8451040800000000000000
+      internalID: 4617677076601222555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 57
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966c4e5159616b8c0800000000000000
+      internalID: -3983971990789372311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 86
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac0471488c787d20800000000000000
+      internalID: 3276505653567556776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 86
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5872113bb9aa93380800000000000000
+      internalID: -8990967595367585915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/[base]body
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 58
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2990efc048eddf670800000000000000
+      internalID: 8574253924318316946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/[base]body
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 58
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3113490eda691f0800000000000000
+      internalID: -1038451483991796825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782437dcb654ce570800000000000000
+      internalID: 8497242926251983495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5737c59d657835ba0800000000000000
+      internalID: -6101384263073238155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f6c9b2ca5efc550800000000000000
+      internalID: 6183413341031788357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d8ecef6f7e1e80800000000000000
+      internalID: -8205981352329684641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/[base]head
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 55
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf04aeaea09cb760800000000000000
+      internalID: 7475008561456877532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b30157adc08d940800000000000000
+      internalID: 5321017092144642950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66929de4b7c0beb0800000000000000
+      internalID: -4706042030708320658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 120
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00de6a111a2970460800000000000000
+      internalID: 7207890949113310464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 120
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d94367b9853ca4c0800000000000000
+      internalID: -4274983080677914159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/cloakB
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 86
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c96cc79f0fe4760800000000000000
+      internalID: 7444152188420922369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/cloakB
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 86
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f799cfd2d47111d20800000000000000
+      internalID: 3247402426562287999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/[base]attack
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 100
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f5bfc1f8644d5a0800000000000000
+      internalID: -6497490781908279469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/face/[base]attack
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 100
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0992135f8662a40800000000000000
+      internalID: 5343073410222756006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/face/[base]attack
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 100
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c0784cb870cef30800000000000000
+      internalID: 4606064815772208234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/[base]damaged
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb7dcbf12d804b00800000000000000
+      internalID: 810803110024674267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/face/[base]damaged
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e32f839bd75afb0800000000000000
+      internalID: -4637162006830236115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/face/[base]damaged
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0909be7d41e8be0800000000000000
+      internalID: -1473217110500929358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/[base]doyagao
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 102
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5023b8d4c322aaee0800000000000000
+      internalID: -1249148304247541243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/face/[base]doyagao
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 102
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66431b111a00c4890800000000000000
+      internalID: -7472596989927934874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/face/[base]doyagao
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 102
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16acb53595e548a0800000000000000
+      internalID: -6321394072930179554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/[base]idle
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22afa974db94ac350800000000000000
+      internalID: 6037719327742556706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/face/[base]idle
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903739f586ec24f70800000000000000
+      internalID: 9170118738955170569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/face/[base]idle
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40035d794c6d3080800000000000000
+      internalID: -9206083000384421811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/[base]mad
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60e270af955144f0800000000000000
+      internalID: -846301110888898454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/face/[base]mad
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b4857ce11ba1b10800000000000000
+      internalID: 1953068134170119041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/face/[base]mad
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2120f1a46463c090800000000000000
+      internalID: -8015452528412974802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/[base]smile
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1027a4d62c6383ef0800000000000000
+      internalID: -128292380694908415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/face/[base]smile
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2231c4b4a893d230800000000000000
+      internalID: 3662438755156963885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/face/[base]smile
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa550c84c08a0660800000000000000
+      internalID: 7352830923286862580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/[base]tired
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86de2d1617b04b330800000000000000
+      internalID: 3725615373342666088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/face/[base]tired
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef0b7ebfb8887260800000000000000
+      internalID: 7095571570038083561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/face/[base]tired
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 108
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cb580d041470810800000000000000
+      internalID: 1731424328379382840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/face/tear
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 109
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2329aee4ce72e93f0800000000000000
+      internalID: -892231780283018702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/muffler
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f79abc9eeea18ef0800000000000000
+      internalID: -107612576225257481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/muffler
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 113
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd621cd0b55af810800000000000000
+      internalID: 1799845219182734776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_3/side/rope
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 113
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91612a756589c5f00800000000000000
+      internalID: 1106927105031149081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/rope
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 113
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000d53ce606d4eaa0800000000000000
+      internalID: -6132541467350675456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/rope
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 113
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847b4f8176cdfdfd0800000000000000
+      internalID: -2314889348086712504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/[base]head
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 28
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a63514e59f6d0200800000000000000
+      internalID: 147897052340500133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/back/bag
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 56
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749b9371b96d285f0800000000000000
+      internalID: -755805825846888121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/[base]head
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 28
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4369c949860637b0800000000000000
+      internalID: -5244997529308142770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/front/bag
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 56
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595b8c2826c15c890800000000000000
+      internalID: -7438508000105941611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/bag
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 56
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd0710fb0d0eacb0800000000000000
+      internalID: -4850925403707601472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_4/side/[base]head
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d158b0d881903e0800000000000000
+      internalID: -2087109958246785652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6016514b6e6b8c70800000000000000
+      internalID: 8974388089402560622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d572d990948edd4f0800000000000000
+      internalID: -802229758210529443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/[base]body
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 102
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d7b90af254b7a40800000000000000
+      internalID: 5366959451802402087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 116
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684a8d3e38973b440800000000000000
+      internalID: 4950434022780609670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 116
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83d9abc360ca100800000000000000
+      internalID: 120478147930831022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/[base]head
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab5d9b9b6a17f020800000000000000
+      internalID: 2375396377935829921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 120
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3270b0f88dd1600800000000000000
+      internalID: 440746447429116876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 120
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e48b1b515f7db270800000000000000
+      internalID: 8267904478319707362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/cloakB
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ddfc3a4c6573bf0800000000000000
+      internalID: -344711443908666059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c499da76bde1c28d0800000000000000
+      internalID: -2869884934855747252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/back/muffler
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 72
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3bc62addcd5a730800000000000000
+      internalID: 4009853887714210732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583293bf70bfabe60800000000000000
+      internalID: 7978965701538423685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fe3e50004051310800000000000000
+      internalID: 1375009659376889650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]armL2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed812f183ea5a4e0800000000000000
+      internalID: -1970977705841029657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]armR2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aeac81ac8756df0800000000000000
+      internalID: -187611000071329247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]body
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 108
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36976bfcbd6e49770800000000000000
+      internalID: 8616765818823670115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 117
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2808094b43b4b9c10800000000000000
+      internalID: 2061323944191885442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]elbowL2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 111
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dd8fb979cc91a90800000000000000
+      internalID: -7342612765921977043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 117
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd707ccd68c3c080800000000000000
+      internalID: -9168264042489283137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]elbowR2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aee0f5858305810800000000000000
+      internalID: 1751962207250213466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]head
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 28
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b3f8c7693fbc660800000000000000
+      internalID: 7407281839801318159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 120
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d694bb163ccd49670800000000000000
+      internalID: 8544697124745070957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 120
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e97d9790b7ed7a50800000000000000
+      internalID: 6520622581146286567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/cloakB
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 81
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b714dccc1fd05f0800000000000000
+      internalID: -788708497800725650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffbe38040d455890800000000000000
+      internalID: -7469979727210561545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/face/hairF
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 100
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecb5aa44900b6290800000000000000
+      internalID: -7896216884756497174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/front/muffler
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 124
+        width: 11
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de588b7979c3e040800000000000000
+      internalID: 4675802361741467346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/[base]armL
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71bf8ef68726be0800000000000000
+      internalID: -1485492505033369668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/[base]armR
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2639e49671efb780800000000000000
+      internalID: -8664959258616842707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/[base]body
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c94142a4a4d2110800000000000000
+      internalID: 1237727154890120313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/[base]elbowL
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfe7b726bec4abe0800000000000000
+      internalID: -1466820296870203435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/[base]elbowR
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de66f05b5aaee42a0800000000000000
+      internalID: -6751200793953605907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/[base]head
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 28
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5137bc406a7b570800000000000000
+      internalID: 8482430962699015609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/[base]legL
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 121
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350c2c00e40155210800000000000000
+      internalID: 1320979992909365331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/[base]legR
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 122
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68564aec28545b810800000000000000
+      internalID: 1780405655809844614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/cloakB
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 81
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac92fb02649cecca0800000000000000
+      internalID: -5994632750949258806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/cloakB2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 56
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9397a440372c02700800000000000000
+      internalID: 513624156769253689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/face/hairF
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ba33cf3662fde00800000000000000
+      internalID: 1071617447212329768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: future_princess_5/side/muffler
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 119
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b21e3bbfeac43400800000000000000
+      internalID: 303090205928067768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loraine_head_back
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 81
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0791616b4d5332750800000000000000
+      internalID: 6278921493188843888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loraine_head_front
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 81
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb54d74b02e8b60800000000000000
+      internalID: 7750167968319127456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: loraine_head_side
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 81
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e93a5de54c45f870800000000000000
+      internalID: 8715956517064030688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      future_princess_5/front/face/[base]damaged: 7152080288010674665
+      future_princess_3/front/[base]elbowL: 7556578528912432370
+      future_princess_3/back/head2: 6630248604647640554
+      loraine_head_side: 8715956517064030688
+      future_princess_3/side/face/[base]attack: -6497490781908279469
+      future_princess_5/back/bag: 7598929325321649311
+      future_princess_5/front/[base]elbowL2: -7342612765921977043
+      future_princess_3/back/[base]elbowL: -7030567825243120045
+      future_princess_3/side/bag: -480666291255764683
+      future_princess_3/front/face/[base]attack: -3690980949741151093
+      future_princess_3/side/[base]elbowR: 6183413341031788357
+      future_princess_5/side/[base]armL: -1485492505033369668
+      future_princess_3/side/[base]armR: 3276505653567556776
+      future_princess_4/front/[base]elbowR: 1054787977352764191
+      future_princess_3/side/[base]legR: 7207890949113310464
+      future_princess_3/front/[base]body: -2537362915932522988
+      future_princess_5/side/face/[base]damaged: -1473217110500929358
+      future_princess_3/back/rope: -8177026075661142224
+      future_princess_5/front/[base]body: 8616765818823670115
+      future_princess_4/side/face/[base]mad: 1953068134170119041
+      future_princess_4/side/face/[base]damaged: -4637162006830236115
+      future_princess_5/front/cloakB2: -7469979727210561545
+      future_princess_5/side/bag: -2020688642124850910
+      future_princess_5/front/muffler: 4675802361741467346
+      future_princess_3/back/[base]elbowR: -3059838296830290314
+      future_princess_3/side/[base]body: 8574253924318316946
+      future_princess_3/back/cloakB2: -7828208193767342559
+      future_princess_4/side/cloakB2: 347190416045006404
+      future_princess_5/back/[base]body: 5366959451802402087
+      future_princess_4/front/[base]legR: 7120842434817383954
+      future_princess_4/back/muffler: -2454268867075024
+      broken_worker_a_head_front: -2725727430524248256
+      future_princess_3/front/[base]armL2: 2037182343938268369
+      future_princess_3/side/face/hairF: 5810675939655901188
+      future_princess_5/side/[base]elbowR: -6751200793953605907
+      future_princess_4/back/[base]head: 147897052340500133
+      future_princess_5/front/[base]head: 7407281839801318159
+      future_princess_5/back/cloakB: -344711443908666059
+      future_princess_5/front/face/[base]tired: 7989481516175507994
+      future_princess_5/back/[base]elbowL: 4950434022780609670
+      future_princess_3/side/[base]head: 7475008561456877532
+      future_princess_5/front/[base]elbowL: 2061323944191885442
+      future_princess_3/back/[base]legR: 3939898786744905268
+      future_princess_4/front/cloakB: -93079575482680631
+      future_princess_4/front/[base]armR2: 2962578433820027002
+      future_princess_3/front/[base]legL: 2136953826526369730
+      future_princess_5/front/bag: -4591410887041170385
+      future_princess_4/side/[base]elbowL: -6101384263073238155
+      future_princess_3/back/[base]armL: -7144051001702623059
+      future_princess_5/front/face/[base]mad: 1547795982514034193
+      future_princess_5/front/[base]legL: 8544697124745070957
+      future_princess_3/front/face/hairF: -1439426551024883931
+      future_princess_5/front/[base]legR: 6520622581146286567
+      future_princess_4/side/muffler: 1799845219182734776
+      future_princess_5/back/cloakB2: -2869884934855747252
+      future_princess_3/side/cloakB2: -698207669218466796
+      future_princess_4/front/face/[base]doyagao: -5210621291392342144
+      future_princess_3/front/face/[base]damaged: 4488262891303263812
+      future_princess_4/front/bag: -7438508000105941611
+      future_princess_5/side/cloakB2: 513624156769253689
+      future_princess_5/side/face/[base]mad: -8015452528412974802
+      future_princess_5/back/[base]head: 2375396377935829921
+      future_princess_3/front/face/tear: 3453793413897864658
+      future_princess_3/front/[base]elbowR: -7220223618285627524
+      future_princess_3/side/face/[base]mad: -846301110888898454
+      future_princess_3/back/[base]legL: 1756754445892305328
+      future_princess_4/front/[base]body: -2210039094319368259
+      future_princess_5/side/[base]body: 1237727154890120313
+      future_princess_5/side/[base]armR: -8664959258616842707
+      future_princess_4/front/face/[base]smile: 2424731897384510993
+      future_princess_4/side/[base]elbowR: -8205981352329684641
+      future_princess_4/side/face/[base]attack: 5343073410222756006
+      future_princess_4/front/cloakB2: 1642186879714556094
+      future_princess_4/back/[base]armR: -1024637472564719369
+      future_princess_3/front/face/[base]doyagao: -676806031123136026
+      future_princess_4/front/[base]armL: 2435744146268109831
+      future_princess_4/back/rope: -2865242030591082518
+      future_princess_3/front/cloakB: -4015866170388624863
+      future_princess_3/front/face/[base]mad: -6114289312647238253
+      future_princess_3/back/cloakB: 5573747075426824444
+      future_princess_4/front/face/hairF: -4421273732810487879
+      future_princess_3/front/[base]elbowR2: -7328424892339303803
+      future_princess_3/side/face/tear: -892231780283018702
+      future_princess_4/front/[base]head: -5244997529308142770
+      broken_worker_a_head_side: -6926346799196305189
+      future_princess_5/front/cloakB: -788708497800725650
+      future_princess_4/back/cloakB2: -1193474473144282087
+      future_princess_3/back/muffler: 7898929590644031656
+      future_princess_4/front/[base]legL: -8296405382589291140
+      future_princess_3/side/muffler: -107612576225257481
+      future_princess_5/side/cloakB: -5994632750949258806
+      future_princess_4/side/bag: -4850925403707601472
+      future_princess_5/side/[base]legR: 1780405655809844614
+      future_princess_5/side/face/[base]doyagao: -6321394072930179554
+      future_princess_4/side/face/[base]smile: 3662438755156963885
+      future_princess_5/front/face/[base]smile: -182227815331363085
+      future_princess_3/side/rope: 1106927105031149081
+      future_princess_3/front/muffler: 2116924523094204226
+      future_princess_3/front/cloakB2: 2245842657825600826
+      loraine_head_back: 6278921493188843888
+      future_princess_5/front/[base]armL: 7978965701538423685
+      future_princess_5/side/face/[base]attack: 4606064815772208234
+      future_princess_4/front/[base]elbowR2: -2413449462934272018
+      future_princess_5/front/face/[base]doyagao: -4919007208730818949
+      future_princess_3/front/face/[base]smile: 8516740164555495621
+      future_princess_4/side/[base]armR: -8990967595367585915
+      future_princess_4/front/[base]armR: -6547496454746073068
+      future_princess_4/side/cloakB: 3247402426562287999
+      future_princess_3/side/face/[base]damaged: 810803110024674267
+      future_princess_4/back/bag: -755805825846888121
+      future_princess_3/back/[base]armR: -3424577883981295319
+      future_princess_5/side/[base]legL: 1320979992909365331
+      future_princess_5/back/[base]elbowR: 120478147930831022
+      future_princess_3/side/face/[base]doyagao: -1249148304247541243
+      future_princess_4/front/muffler: 7281832104131106381
+      loraine_head_front: 7750167968319127456
+      future_princess_5/side/muffler: 303090205928067768
+      future_princess_4/side/[base]legL: -4706042030708320658
+      future_princess_3/side/[base]elbowL: 8497242926251983495
+      future_princess_5/side/[base]elbowL: -1466820296870203435
+      future_princess_5/front/[base]armL2: -1970977705841029657
+      future_princess_4/side/face/hairF: 2420409502413980947
+      future_princess_5/front/[base]elbowR: -9168264042489283137
+      future_princess_5/front/face/[base]attack: 5072316038245013828
+      future_princess_4/side/[base]legR: -4274983080677914159
+      broken_worker_a_head_back: -978547624793169938
+      future_princess_4/back/[base]elbowL: -7709921397293377092
+      future_princess_3/side/face/[base]tired: 3725615373342666088
+      future_princess_4/back/[base]legL: -6849355693274992893
+      future_princess_5/side/face/[base]smile: 7352830923286862580
+      future_princess_3/side/face/[base]smile: -128292380694908415
+      future_princess_5/front/face/[base]idle: -8015625046630584734
+      future_princess_3/side/[base]armL: 4617677076601222555
+      future_princess_3/back/[base]body: 3813749824378594777
+      future_princess_3/front/[base]armL: -1664204915569836695
+      future_princess_5/side/rope: -2314889348086712504
+      future_princess_4/side/[base]head: -2087109958246785652
+      future_princess_4/front/face/[base]mad: 6171379214422955278
+      future_princess_5/front/face/hairF: -7896216884756497174
+      future_princess_3/back/bag: 6161561206242453024
+      future_princess_3/back/[base]head: -2237663282325560657
+      future_princess_4/front/[base]elbowL2: 1205444675119120826
+      future_princess_4/front/face/[base]damaged: -2582588334024951467
+      future_princess_4/side/face/[base]tired: 7095571570038083561
+      future_princess_4/back/[base]body: 6836274218995441494
+      future_princess_4/front/[base]elbowL: 160801627851383671
+      future_princess_3/side/face/[base]idle: 6037719327742556706
+      future_princess_5/back/[base]legL: 440746447429116876
+      future_princess_5/front/[base]elbowR2: 1751962207250213466
+      future_princess_4/front/face/[base]tired: 3006624957730163268
+      future_princess_5/back/[base]legR: 8267904478319707362
+      future_princess_3/front/[base]legR: -1034675442156974712
+      future_princess_3/front/[base]elbowL2: 5387960041332505521
+      future_princess_4/back/[base]armL: 7245096291405687636
+      future_princess_4/back/[base]legR: 1339253599900556215
+      future_princess_3/front/face/[base]tired: 2013830246784402607
+      future_princess_5/side/[base]head: 8482430962699015609
+      future_princess_5/side/face/hairF: 1071617447212329768
+      future_princess_3/front/[base]armR2: -1918474790371580143
+      future_princess_4/side/[base]armL: -3983971990789372311
+      future_princess_4/back/[base]elbowR: -1941941225519031620
+      future_princess_3/front/face/[base]idle: -8083467657302177635
+      future_princess_5/back/[base]armR: -802229758210529443
+      future_princess_5/front/[base]armR: 1375009659376889650
+      future_princess_4/side/face/[base]idle: 9170118738955170569
+      future_princess_5/side/face/[base]tired: 1731424328379382840
+      future_princess_5/back/muffler: 4009853887714210732
+      future_princess_3/side/[base]legL: 5321017092144642950
+      future_princess_4/front/[base]armL2: -6687814006134941101
+      future_princess_5/front/[base]armR2: -187611000071329247
+      future_princess_3/front/[base]head: -6970557885636887035
+      future_princess_3/side/cloakB: 7444152188420922369
+      future_princess_5/back/[base]armL: 8974388089402560622
+      future_princess_5/back/rope: -6225172741401055408
+      future_princess_4/side/face/[base]doyagao: -7472596989927934874
+      future_princess_4/back/cloakB: -6315087160988272109
+      future_princess_3/front/[base]armR: 4533768991949434069
+      future_princess_4/front/face/[base]idle: -3868049207798496381
+      future_princess_5/side/face/[base]idle: -9206083000384421811
+      future_princess_4/side/rope: -6132541467350675456
+      future_princess_4/side/[base]body: -1038451483991796825
+      future_princess_4/front/face/[base]attack: 3645738263240531548
+      future_princess_3/front/bag: -4000302677365785428
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
